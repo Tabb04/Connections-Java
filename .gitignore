@@ -1,11 +1,8 @@
-# Directory di compilazione e build
 out/
 bin/
 
-# Documentazione interna
 Documentazione/
 
-# Configurazioni IDE / Editor
 .vscode/
 .idea/
 *.iml
@@ -13,7 +10,6 @@ Documentazione/
 .classpath
 .project
 
-# File temporanei e di sistema
 .DS_Store
 *.swp
 *.patch
