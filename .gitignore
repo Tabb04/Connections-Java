@@ -1,0 +1,21 @@
+# Directory di compilazione e build
+out/
+bin/
+
+# Documentazione interna
+Documentazione/
+
+# Configurazioni IDE / Editor
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# File temporanei e di sistema
+.DS_Store
+*.swp
+*.patch
+*.diff
+patch.diff

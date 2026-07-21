@@ -1,0 +1,16 @@
+--- src/server/GameManager.java
++++ src/server/GameManager.java
+@@ -115,6 +115,13 @@
+         Game newGame = new Game(data, gameDurationSeconds);
+         currentGame.set(newGame);
+         
+         System.out.println("[GAMEMANAGER] Nuova partita casuale iniziata: ID " + newGame.getGameId() + ". Durata: " + gameDurationSeconds + "s");
++
++        // Auto-join dei giocatori attualmente connessi alla nuova partita
++        if (server != null) {
++            for (server.User user : server.getActiveConnections().values()) {
++                user.resetGameState(newGame.getGameId());
++            }
++        }
+ 
+         // Pianifichiamo la fine della partita allo scadere del tempo

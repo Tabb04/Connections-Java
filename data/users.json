@@ -1,0 +1,40 @@
+{
+  "user": {
+    "username": "user",
+    "password": "pass",
+    "gamesPlayed": 3,
+    "gamesWon": 1,
+    "globalScore": 24,
+    "puzzlesCompleted": 3,
+    "puzzlesWon": 1,
+    "puzzlesLost": 0,
+    "currentStreak": 1,
+    "maxStreak": 1,
+    "perfectPuzzles": 1,
+    "mistakeHistogram": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "history": {
+      "343": {
+        "score": 0,
+        "mistakes": 0,
+        "won": false
+      },
+      "828": {
+        "score": 6,
+        "mistakes": 0,
+        "won": false
+      },
+      "161": {
+        "score": 18,
+        "mistakes": 0,
+        "won": true
+      }
+    }
+  }
+}

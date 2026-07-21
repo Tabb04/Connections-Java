@@ -1,0 +1,146 @@
+{
+  "161": {
+    "gameId": 161,
+    "data": {
+      "gameId": 161,
+      "groups": [
+        {
+          "theme": "RELIGIOUS FIGURES",
+          "words": [
+            "CARDINAL",
+            "PASTOR",
+            "LAMA",
+            "MONK"
+          ]
+        },
+        {
+          "theme": "PRIMATES",
+          "words": [
+            "GORILLA",
+            "GIBBON",
+            "BABOON",
+            "BONOBO"
+          ]
+        },
+        {
+          "theme": "CHUTNEY VARIETIES",
+          "words": [
+            "MINT",
+            "TOMATO",
+            "MANGO",
+            "TAMARIND"
+          ]
+        },
+        {
+          "theme": "IMITATE",
+          "words": [
+            "MIRROR",
+            "PARROT",
+            "APE",
+            "MIME"
+          ]
+        }
+      ]
+    },
+    "totalParticipants": 1,
+    "finishedParticipants": 1,
+    "wonParticipants": 1,
+    "averageScore": 18.0
+  },
+  "343": {
+    "gameId": 343,
+    "data": {
+      "gameId": 343,
+      "groups": [
+        {
+          "theme": "SORCERER’S OUTPUT",
+          "words": [
+            "MAGIC",
+            "CHARM",
+            "SPELL",
+            "HEX"
+          ]
+        },
+        {
+          "theme": "ONE BEING MANIPULATED",
+          "words": [
+            "PUPPET",
+            "TOOL",
+            "PAWN",
+            "INSTRUMENT"
+          ]
+        },
+        {
+          "theme": "CLASSIC SUPERHERO WEAR",
+          "words": [
+            "UNDERWEAR",
+            "CAPE",
+            "MASK",
+            "TIGHTS"
+          ]
+        },
+        {
+          "theme": "ACTION MOVIE DIRECTORS",
+          "words": [
+            "CARPENTER",
+            "WOO",
+            "BAY",
+            "SCOTT"
+          ]
+        }
+      ]
+    },
+    "totalParticipants": 1,
+    "finishedParticipants": 0,
+    "wonParticipants": 0,
+    "averageScore": 0.0
+  },
+  "828": {
+    "gameId": 828,
+    "data": {
+      "gameId": 828,
+      "groups": [
+        {
+          "theme": "EVALUATE",
+          "words": [
+            "RATE",
+            "SCORE",
+            "RANK",
+            "GRADE"
+          ]
+        },
+        {
+          "theme": "EXHIBIT NERVOUSNESS",
+          "words": [
+            "PACE",
+            "BLUSH",
+            "SWEAT",
+            "FIDGET"
+          ]
+        },
+        {
+          "theme": "\"THINGS THAT CAN RUN, ANNOYINGLY\"",
+          "words": [
+            "NOSE",
+            "MASCARA",
+            "DYE",
+            "STOCKINGS"
+          ]
+        },
+        {
+          "theme": "PAPER ___",
+          "words": [
+            "TIGER",
+            "CLIP",
+            "TOWEL",
+            "TRAIL"
+          ]
+        }
+      ]
+    },
+    "totalParticipants": 1,
+    "finishedParticipants": 0,
+    "wonParticipants": 0,
+    "averageScore": 6.0
+  }
+}
